@@ -1,0 +1,20 @@
+{
+  "programming": {
+    "python": ["python"],
+    "java": ["java"],
+    "sql": ["sql"],
+    "javascript": ["javascript", "js"]
+  },
+
+  "frameworks": {
+    "django": ["django"],
+    "flask": ["flask"],
+    "react": ["react"]
+  },
+
+  "cloud": {
+    "aws": ["aws", "amazon web services"],
+    "docker": ["docker"],
+    "postgresql": ["postgresql", "postgres"]
+  }
+}
